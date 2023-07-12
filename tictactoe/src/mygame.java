@@ -51,7 +51,7 @@ creategui();
         heading.setForeground(Color.WHITE);
 this.add(heading, BorderLayout.NORTH);
 
-clockLabel = new JLabel("MEOOOWWW ");
+clockLabel = new JLabel("Enjoy");
         clockLabel.setForeground(Color.WHITE);
         clockLabel.setFont(font);
 clockLabel.setHorizontalAlignment(SwingConstants.CENTER);
